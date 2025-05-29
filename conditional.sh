@@ -10,3 +10,5 @@ else
     echo "The name is not mahshin"
 fi
 
+# Conditional statement to check if a file exists 
+
