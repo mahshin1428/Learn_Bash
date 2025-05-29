@@ -9,4 +9,3 @@ then
 else
     echo "The name is not mahshin"
 fi
-echo "Conditional statement completed"
